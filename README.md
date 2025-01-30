@@ -1,4 +1,4 @@
-Pour le devoir, j'ai commencé par installer les dépendances : 
+Pour le projet, j'ai commencé par installer les dépendances : 
 - npm init -y : pour installer les packages
 - npm install alpinejs
 
